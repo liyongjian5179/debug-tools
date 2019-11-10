@@ -51,14 +51,14 @@ RUN set -ex \
     scapy \
     socat \
     strace \
+    gdb \
     tcpdump \
     tcptraceroute \
     util-linux \
     jq \
     vim \
     htop \
-    mysql-client \
-    openjdk8 
+    mysql-client 
 
 # Timezone
 RUN ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && \

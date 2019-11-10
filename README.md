@@ -2,7 +2,7 @@
 
 Upgrade based on `https://github.com/nicolaka/netshoot.git` project .
 
-And, I've added some commonly used debug tools, such as redis-cli , mysql, java( jps, jstack, jmap, jinfo...) ,jq...
+And, I've added some commonly used debug tools, such as redis-cli , mysql ,jq...
 
 
 ```bash
